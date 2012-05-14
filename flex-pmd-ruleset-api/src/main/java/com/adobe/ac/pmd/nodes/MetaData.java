@@ -53,7 +53,11 @@ public enum MetaData
    REMOTE_CLASS("RemoteClass"),
    STYLE("Style"),
    TEST("Test"),
-   TRANSIENT("Transient");
+   AFTER("After"),
+   BEFORECLASS("BeforeClass"),
+   AFTERCLASS("AfterClass"),
+   TRANSIENT("Transient"),
+   RESOURCEBUNDLE("ResourceBundle");
 
    /**
     * @param metaDataName
