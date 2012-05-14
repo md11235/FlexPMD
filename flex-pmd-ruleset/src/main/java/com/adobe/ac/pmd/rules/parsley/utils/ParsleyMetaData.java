@@ -93,8 +93,27 @@ public final class ParsleyMetaData
    public static final MetaDataTag                 ASYNC_INIT           = new MetaDataTag( "AsyncInit",
                                                                                            new String[]
                                                                                            { COMPLETE_EVENT,
-               ERROR_EVENT                                                                },
+                                                                                             ERROR_EVENT },
                                                                                            CLASS_LOCATION );
+
+    public static final MetaDataTag                 COMMAND_COMPLETE     = new MetaDataTag( "CommandComplete",
+                                                                                           new String[]
+                                                                                           {},
+                                                                                           FUNCTION_LOCATION );
+
+    public static final MetaDataTag                 COMMAND              = new MetaDataTag( "Command",
+                                                                                            new String[]
+                                                                                           {},
+                                                                                           FUNCTION_LOCATION );
+
+    public static final MetaDataTag                 COMMAND_RESULT              = new MetaDataTag( "CommandResult",
+                                                                                            new String[]
+                                                                                           {},
+                                                                                           FUNCTION_LOCATION );
+    public static final MetaDataTag                 COMMAND_ERROR              = new MetaDataTag( "CommandError",
+                                                                                            new String[]
+                                                                                           {},
+                                                                                           FUNCTION_LOCATION );
 
    public static final MetaDataTag                 DESTROY              = new MetaDataTag( "Destroy",
                                                                                            new String[]
@@ -198,23 +217,26 @@ public final class ParsleyMetaData
                                                                                            {},
                                                                                            ATTRIBUTE_LOCATION );
 
-   public static final MetaDataTag[]               ALL_TAGS             =
-                                                                        { INJECT,
-               INJECT_CONSTRUCTOR,
-               MANAGED_EVENTS,
-               MESSAGE_BINDING,
-               MESSAGE_DISPATCHER,
-               MESSAGE_ERROR,
-               MESSAGE_HANDLER,
-               MESSAGE_INTERCEPTOR,
-               ASYNC_INIT,
-               INIT,
-               DESTROY,
-               RESOURCE_BINDING,
-               FACTORY,
-               OBJECT_DEFINITION,
-               TARGET,
-               INTERNAL                                                };
+    public static final MetaDataTag[]               ALL_TAGS             =   { INJECT,
+                                                                               INJECT_CONSTRUCTOR,
+                                                                               MANAGED_EVENTS,
+                                                                               MESSAGE_BINDING,
+                                                                               MESSAGE_DISPATCHER,
+                                                                               MESSAGE_ERROR,
+                                                                               MESSAGE_HANDLER,
+                                                                               MESSAGE_INTERCEPTOR,
+                                                                               ASYNC_INIT,
+                                                                               COMMAND_COMPLETE,
+                                                                               COMMAND,
+                                                                               COMMAND_RESULT,
+                                                                               COMMAND_ERROR,
+                                                                               INIT,
+                                                                               DESTROY,
+                                                                               RESOURCE_BINDING,
+                                                                               FACTORY,
+                                                                               OBJECT_DEFINITION,
+                                                                               TARGET,
+                                                                               INTERNAL                                                };
 
    private static final Map< String, MetaDataTag > TAG_MAP              = new LinkedHashMap< String, MetaDataTag >();
 
@@ -238,6 +260,16 @@ public final class ParsleyMetaData
                    MESSAGE_INTERCEPTOR );
       TAG_MAP.put( ASYNC_INIT.getName(),
                    ASYNC_INIT );
+
+      TAG_MAP.put( COMMAND_COMPLETE.getName(),
+                   COMMAND_COMPLETE );
+      TAG_MAP.put( COMMAND.getName(),
+                   COMMAND );
+      TAG_MAP.put( COMMAND_RESULT.getName(),
+                   COMMAND_RESULT );
+      TAG_MAP.put( COMMAND_ERROR.getName(),
+                   COMMAND_ERROR );
+
       TAG_MAP.put( INIT.getName(),
                    INIT );
       TAG_MAP.put( DESTROY.getName(),
