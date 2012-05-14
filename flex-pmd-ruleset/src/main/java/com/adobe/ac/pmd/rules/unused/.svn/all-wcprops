@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/unused
+END
+UnusedFieldRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/unused/UnusedFieldRule.java
+END
+EmptyPrivateMethodRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/unused/EmptyPrivateMethodRule.java
+END
+AbstractUnusedVariableRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/unused/AbstractUnusedVariableRule.java
+END
+UnusedPrivateMethodRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/unused/UnusedPrivateMethodRule.java
+END
+UnusedLocalVariableRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/unused/UnusedLocalVariableRule.java
+END
+UnusedParameterRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/unused/UnusedParameterRule.java
+END

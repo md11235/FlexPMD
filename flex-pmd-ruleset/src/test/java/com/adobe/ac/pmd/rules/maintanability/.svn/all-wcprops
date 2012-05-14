@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/maintanability
+END
+UselessOverridenFunctionRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/maintanability/UselessOverridenFunctionRuleTest.java
+END
+AvoidProtectedFieldInFinalClassRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/maintanability/AvoidProtectedFieldInFinalClassRuleTest.java
+END
+AlertShowRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/maintanability/AlertShowRuleTest.java
+END
+AvoidUsingWithKeyWordRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/maintanability/AvoidUsingWithKeyWordRuleTest.java
+END
+ReferenceToVariableBindingFromItsInitializerRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/maintanability/ReferenceToVariableBindingFromItsInitializerRuleTest.java
+END
+DynamicClassRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/maintanability/DynamicClassRuleTest.java
+END
+NonStaticConstantFieldRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/maintanability/NonStaticConstantFieldRuleTest.java
+END
+OnlyOneReturnRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/maintanability/OnlyOneReturnRuleTest.java
+END
+EmptyStatementRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/maintanability/EmptyStatementRuleTest.java
+END
+AvoidUsingPublicStaticFieldRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/maintanability/AvoidUsingPublicStaticFieldRuleTest.java
+END
+ArrayFieldWithNoArrayElementTypeRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/maintanability/ArrayFieldWithNoArrayElementTypeRuleTest.java
+END
+ExcessiveImportRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/maintanability/ExcessiveImportRuleTest.java
+END
+ClassAndExtensionAreIdenticalRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/maintanability/ClassAndExtensionAreIdenticalRuleTest.java
+END
+TrueFalseConditionRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/maintanability/TrueFalseConditionRuleTest.java
+END
+ProtectedStaticMethodRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/maintanability/ProtectedStaticMethodRuleTest.java
+END

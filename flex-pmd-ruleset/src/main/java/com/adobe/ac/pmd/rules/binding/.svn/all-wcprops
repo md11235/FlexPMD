@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/binding
+END
+BindingUtilsRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/binding/BindingUtilsRule.java
+END
+TooLongBindingExpressionRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/binding/TooLongBindingExpressionRule.java
+END
+ChangeWatcherRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/binding/ChangeWatcherRule.java
+END

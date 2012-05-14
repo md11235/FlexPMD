@@ -1,0 +1,50 @@
+8
+
+dir
+23767
+http://opensource.adobe.com/svn/opensource/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/main/java/com/adobe/ac/pmd
+http://opensource.adobe.com/svn/opensource
+
+
+
+2010-08-12T05:56:15.387468Z
+17298
+xagnetti@adobe.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a9308255-753e-0410-a2e9-80b3fbc4fff6
+
+files
+dir
+
+nodes
+dir
+
+rules
+dir
+
+IFlexViolation.java
+file
+
+
+
+
+2012-05-14T06:14:09.000000Z
+bb2c876050b09c69408ffb0e4dc241ad
+2010-03-29T09:19:23.341453Z
+15091
+xagnetti@adobe.com
+has-props
+

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/architecture
+END
+ViewComponentReferencedInModelRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/architecture/ViewComponentReferencedInModelRuleTest.java
+END
+MonkeyPatchingRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/architecture/MonkeyPatchingRuleTest.java
+END
+UseInternalClassOutsideApiClassTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/architecture/UseInternalClassOutsideApiClassTest.java
+END

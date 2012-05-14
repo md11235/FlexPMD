@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/main/java/com/adobe/ac/pmd/rules/core/thresholded
+END
+AbstractMaximizedFlexRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/main/java/com/adobe/ac/pmd/rules/core/thresholded/AbstractMaximizedFlexRule.java
+END
+IThresholdedRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/main/java/com/adobe/ac/pmd/rules/core/thresholded/IThresholdedRule.java
+END
+AbstractMaximizedAstFlexRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/main/java/com/adobe/ac/pmd/rules/core/thresholded/AbstractMaximizedAstFlexRule.java
+END
+AbstractMaximizedRegexpBasedRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/main/java/com/adobe/ac/pmd/rules/core/thresholded/AbstractMaximizedRegexpBasedRule.java
+END

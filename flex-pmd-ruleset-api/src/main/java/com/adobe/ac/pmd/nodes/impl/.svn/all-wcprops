@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/main/java/com/adobe/ac/pmd/nodes/impl
+END
+ConstantNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/main/java/com/adobe/ac/pmd/nodes/impl/ConstantNode.java
+END
+FieldInitializationNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/main/java/com/adobe/ac/pmd/nodes/impl/FieldInitializationNode.java
+END
+PackageNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/main/java/com/adobe/ac/pmd/nodes/impl/PackageNode.java
+END
+FormalNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/main/java/com/adobe/ac/pmd/nodes/impl/FormalNode.java
+END
+MetaDataNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/main/java/com/adobe/ac/pmd/nodes/impl/MetaDataNode.java
+END
+IdentifierNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/main/java/com/adobe/ac/pmd/nodes/impl/IdentifierNode.java
+END
+AbstractNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/main/java/com/adobe/ac/pmd/nodes/impl/AbstractNode.java
+END
+AttributeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/main/java/com/adobe/ac/pmd/nodes/impl/AttributeNode.java
+END
+FieldNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/main/java/com/adobe/ac/pmd/nodes/impl/FieldNode.java
+END
+ClassNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/main/java/com/adobe/ac/pmd/nodes/impl/ClassNode.java
+END
+FunctionNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/main/java/com/adobe/ac/pmd/nodes/impl/FunctionNode.java
+END
+VariableNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/main/java/com/adobe/ac/pmd/nodes/impl/VariableNode.java
+END
+NodeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/main/java/com/adobe/ac/pmd/nodes/impl/NodeFactory.java
+END

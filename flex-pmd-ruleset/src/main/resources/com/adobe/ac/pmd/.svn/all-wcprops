@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/resources/com/adobe/ac/pmd
+END
+default_flex.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/resources/com/adobe/ac/pmd/default_flex.xml
+END
+all_flex.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/resources/com/adobe/ac/pmd/all_flex.xml
+END

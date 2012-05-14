@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/sizing
+END
+TooLongFunctionRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/sizing/TooLongFunctionRule.java
+END
+TooManyParametersRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/sizing/TooManyParametersRule.java
+END
+TooManyFunctionRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/sizing/TooManyFunctionRule.java
+END
+TooManyFieldsRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/sizing/TooManyFieldsRule.java
+END
+TooLongSwitchCaseRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/sizing/TooLongSwitchCaseRule.java
+END
+TooManyPublicRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/sizing/TooManyPublicRule.java
+END
+TooManyFieldInVORule.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/sizing/TooManyFieldInVORule.java
+END

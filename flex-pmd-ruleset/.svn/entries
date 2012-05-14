@@ -1,0 +1,85 @@
+8
+
+dir
+23767
+http://opensource.adobe.com/svn/opensource/flexpmd/tags/1.2/flex-pmd-ruleset
+http://opensource.adobe.com/svn/opensource
+
+
+
+2010-08-20T12:48:34.245162Z
+17404
+xagnetti@adobe.com
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a9308255-753e-0410-a2e9-80b3fbc4fff6
+
+.classpath
+file
+
+
+
+
+2012-05-14T06:14:07.000000Z
+4670587ace02735142b9e28ca4bf4f97
+2010-01-05T12:44:52.986248Z
+13275
+xagnetti@adobe.com
+
+.project
+file
+
+
+
+
+2012-05-14T06:14:07.000000Z
+f08da318290e8d0b5a3cc02f0eceec59
+2009-08-20T17:53:05.076497Z
+9421
+xagnetti@adobe.com
+
+src
+dir
+
+.externalToolBuilders
+dir
+
+pom.xml
+file
+
+
+
+
+2012-05-14T06:14:07.000000Z
+6ae370327cc75cc9c865e4505591eccc
+2010-08-20T12:48:34.245162Z
+17404
+xagnetti@adobe.com
+
+.settings
+dir
+
+.pmd
+file
+
+
+
+
+2012-05-14T06:14:07.000000Z
+b06d1e6e322766ecff8c5f8182bc6da2
+2009-06-02T12:57:45.733517Z
+7482
+xagnetti@adobe.com
+

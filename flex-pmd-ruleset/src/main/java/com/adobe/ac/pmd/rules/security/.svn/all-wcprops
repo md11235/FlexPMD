@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/security
+END
+LSOSecureFalseRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/security/LSOSecureFalseRule.java
+END
+ImportLoadBestPracticeRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/security/ImportLoadBestPracticeRule.java
+END
+InsecureExactSettingsRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/security/InsecureExactSettingsRule.java
+END
+AllowInsecureDomainRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/security/AllowInsecureDomainRule.java
+END
+LocalConnectionStarRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/security/LocalConnectionStarRule.java
+END
+AllowAllSecureDomainRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/security/AllowAllSecureDomainRule.java
+END

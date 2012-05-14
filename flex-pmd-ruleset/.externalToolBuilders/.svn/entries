@@ -1,0 +1,41 @@
+8
+
+dir
+23767
+http://opensource.adobe.com/svn/opensource/flexpmd/tags/1.2/flex-pmd-ruleset/.externalToolBuilders
+http://opensource.adobe.com/svn/opensource
+
+
+
+2009-08-20T17:53:05.076497Z
+9421
+xagnetti@adobe.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a9308255-753e-0410-a2e9-80b3fbc4fff6
+
+net.sourceforge.pmd.eclipse.plugin.pmdBuilder.launch
+file
+
+
+
+
+2012-05-14T06:14:07.000000Z
+1c4de6239b9ce91150a373f3c9257302
+2009-08-20T17:53:05.076497Z
+9421
+xagnetti@adobe.com
+has-props
+

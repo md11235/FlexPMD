@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/css
+END
+StyleBlockInMxmlRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/css/StyleBlockInMxmlRuleTest.java
+END
+UseCssInsteadOfEmbedMetaDataRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/css/UseCssInsteadOfEmbedMetaDataRuleTest.java
+END

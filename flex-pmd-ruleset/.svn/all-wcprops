@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/.project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/pom.xml
+END
+.pmd
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/.pmd
+END

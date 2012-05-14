@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/naming
+END
+PackageCaseRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/naming/PackageCaseRuleTest.java
+END
+TooShortVariableRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/naming/TooShortVariableRuleTest.java
+END
+TooLongFunctionNameRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/naming/TooLongFunctionNameRuleTest.java
+END
+IncorrectEventHandlerNameRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/naming/IncorrectEventHandlerNameRuleTest.java
+END
+InterfaceNamingRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/naming/InterfaceNamingRuleTest.java
+END
+VariableNameEndingWithNumericRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/naming/VariableNameEndingWithNumericRuleTest.java
+END
+PropertyHiddenByLocalVariableRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/naming/PropertyHiddenByLocalVariableRuleTest.java
+END
+WronglyNamedVariableRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/naming/WronglyNamedVariableRuleTest.java
+END
+CapitalizeConstantsRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/naming/CapitalizeConstantsRuleTest.java
+END
+IncorrectClassCaseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/naming/IncorrectClassCaseTest.java
+END
+BooleanAttributeShouldContainIsHasRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/naming/BooleanAttributeShouldContainIsHasRuleTest.java
+END

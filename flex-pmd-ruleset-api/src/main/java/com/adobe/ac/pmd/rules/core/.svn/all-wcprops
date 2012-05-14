@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/main/java/com/adobe/ac/pmd/rules/core
+END
+IFlexRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/main/java/com/adobe/ac/pmd/rules/core/IFlexRule.java
+END
+AbstractXpathRelatedRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/main/java/com/adobe/ac/pmd/rules/core/AbstractXpathRelatedRule.java
+END
+AbstractForbiddenImportRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/main/java/com/adobe/ac/pmd/rules/core/AbstractForbiddenImportRule.java
+END
+Violation.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/main/java/com/adobe/ac/pmd/rules/core/Violation.java
+END
+AbstractRegexpBasedRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/main/java/com/adobe/ac/pmd/rules/core/AbstractRegexpBasedRule.java
+END
+AbstractRegExpBasedRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/main/java/com/adobe/ac/pmd/rules/core/AbstractRegExpBasedRuleTest.java
+END
+ViolationPriority.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/main/java/com/adobe/ac/pmd/rules/core/ViolationPriority.java
+END
+IFlexAstRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/main/java/com/adobe/ac/pmd/rules/core/IFlexAstRule.java
+END
+AbstractPrimaryAstRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/main/java/com/adobe/ac/pmd/rules/core/AbstractPrimaryAstRule.java
+END
+AbstractFlexRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/main/java/com/adobe/ac/pmd/rules/core/AbstractFlexRuleTest.java
+END
+AbstractFlexRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/main/java/com/adobe/ac/pmd/rules/core/AbstractFlexRule.java
+END
+AbstractFlexMetaDataRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/main/java/com/adobe/ac/pmd/rules/core/AbstractFlexMetaDataRule.java
+END
+AbstractAstFlexRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/main/java/com/adobe/ac/pmd/rules/core/AbstractAstFlexRuleTest.java
+END
+AbstractAstFlexRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/main/java/com/adobe/ac/pmd/rules/core/AbstractAstFlexRule.java
+END
+ViolationPosition.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/main/java/com/adobe/ac/pmd/rules/core/ViolationPosition.java
+END

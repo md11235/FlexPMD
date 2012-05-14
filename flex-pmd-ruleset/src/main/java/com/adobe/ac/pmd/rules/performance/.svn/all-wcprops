@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/performance
+END
+AvoidInstanciationInLoopRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/performance/AvoidInstanciationInLoopRule.java
+END
+AvoidUsingMathRoundRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/performance/AvoidUsingMathRoundRule.java
+END
+CreationPolicySetToAllRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/performance/CreationPolicySetToAllRule.java
+END
+AvoidUsingMathCeilRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/performance/AvoidUsingMathCeilRule.java
+END
+DynamicFiltersUsedInPopup.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/performance/DynamicFiltersUsedInPopup.java
+END
+UseTraceFunctionRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/performance/UseTraceFunctionRule.java
+END
+HeavyConstructorRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/performance/HeavyConstructorRule.java
+END
+RecursiveStyleManagerRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/performance/RecursiveStyleManagerRule.java
+END
+AvoidUsingMathFloorRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/performance/AvoidUsingMathFloorRule.java
+END
+DeeplyNestedIfRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/performance/DeeplyNestedIfRule.java
+END
+CyclomaticComplexityRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/performance/CyclomaticComplexityRule.java
+END
+BindableClassRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/performance/BindableClassRule.java
+END

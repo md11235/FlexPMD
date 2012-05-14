@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/test/java/com/adobe/ac/pmd/rules/core
+END
+TestAbstractAstFlexRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/test/java/com/adobe/ac/pmd/rules/core/TestAbstractAstFlexRule.java
+END
+ViolationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/test/java/com/adobe/ac/pmd/rules/core/ViolationTest.java
+END
+EmptyRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/test/java/com/adobe/ac/pmd/rules/core/EmptyRule.java
+END
+EmptyRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/test/java/com/adobe/ac/pmd/rules/core/EmptyRuleTest.java
+END
+FlexRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/test/java/com/adobe/ac/pmd/rules/core/FlexRuleTest.java
+END
+ViolationPriorityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/test/java/com/adobe/ac/pmd/rules/core/ViolationPriorityTest.java
+END
+IgnoreRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/test/java/com/adobe/ac/pmd/rules/core/IgnoreRuleTest.java
+END
+WarningRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/test/java/com/adobe/ac/pmd/rules/core/WarningRule.java
+END

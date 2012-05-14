@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/maintanability/forbiddentypes
+END
+UseGenericTypeRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/maintanability/forbiddentypes/UseGenericTypeRule.java
+END
+AbstractUseForbiddenTypeRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/maintanability/forbiddentypes/AbstractUseForbiddenTypeRule.java
+END
+UseDictionaryTypeRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/maintanability/forbiddentypes/UseDictionaryTypeRule.java
+END
+UseObjectTypeRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/maintanability/forbiddentypes/UseObjectTypeRule.java
+END

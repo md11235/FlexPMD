@@ -1,0 +1,97 @@
+8
+
+dir
+23767
+http://opensource.adobe.com/svn/opensource/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules
+http://opensource.adobe.com/svn/opensource
+
+
+
+2010-06-09T14:30:26.668946Z
+16503
+xagnetti@adobe.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a9308255-753e-0410-a2e9-80b3fbc4fff6
+
+parsley
+dir
+
+event
+dir
+
+cairngorm
+dir
+
+architecture
+dir
+
+css
+dir
+
+core
+dir
+
+multiscreen
+dir
+
+parameterized
+dir
+
+flexunit
+dir
+
+empty
+dir
+
+style
+dir
+
+utils
+dir
+
+performance
+dir
+
+component
+dir
+
+unused
+dir
+
+sizing
+dir
+
+maintanability
+dir
+
+security
+dir
+
+naming
+dir
+
+binding
+dir
+
+asdocs
+dir
+
+switchrules
+dir
+
+mxml
+dir
+

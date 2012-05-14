@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/asdocs
+END
+AttributeAsDocMissingRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/asdocs/AttributeAsDocMissingRuleTest.java
+END
+ClassAsDocMissingRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/asdocs/ClassAsDocMissingRuleTest.java
+END
+AbstractAsDocRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/asdocs/AbstractAsDocRuleTest.java
+END
+MethodAsDocMissingRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/asdocs/MethodAsDocMissingRuleTest.java
+END

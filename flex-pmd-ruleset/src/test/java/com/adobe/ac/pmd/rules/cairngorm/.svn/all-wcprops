@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/cairngorm
+END
+ModelLocatorReferencedMoreThanOncePerClassRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/cairngorm/ModelLocatorReferencedMoreThanOncePerClassRuleTest.java
+END
+ReferenceModelLocatorOutsideTheMainApplicationRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/cairngorm/ReferenceModelLocatorOutsideTheMainApplicationRuleTest.java
+END
+CairngormEventDispatcherCallExplicitlyRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/cairngorm/CairngormEventDispatcherCallExplicitlyRuleTest.java
+END
+FatControllerRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/cairngorm/FatControllerRuleTest.java
+END
+BadCairngormEventNameFormatRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/cairngorm/BadCairngormEventNameFormatRuleTest.java
+END
+BindableModelLocatorRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/cairngorm/BindableModelLocatorRuleTest.java
+END

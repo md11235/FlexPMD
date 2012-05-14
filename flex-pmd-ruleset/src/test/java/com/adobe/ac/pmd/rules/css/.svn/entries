@@ -1,0 +1,53 @@
+8
+
+dir
+23767
+http://opensource.adobe.com/svn/opensource/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/css
+http://opensource.adobe.com/svn/opensource
+
+
+
+2010-06-03T17:13:32.294358Z
+16435
+xagnetti@adobe.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a9308255-753e-0410-a2e9-80b3fbc4fff6
+
+StyleBlockInMxmlRuleTest.java
+file
+
+
+
+
+2012-05-14T06:14:04.000000Z
+62d23b3d404f677d4eeccc99df0d24a1
+2010-06-03T17:13:32.294358Z
+16435
+xagnetti@adobe.com
+
+UseCssInsteadOfEmbedMetaDataRuleTest.java
+file
+
+
+
+
+2012-05-14T06:14:04.000000Z
+277353bb369b17401a64fa422d4543bc
+2010-06-03T17:13:32.294358Z
+16435
+xagnetti@adobe.com
+has-props
+

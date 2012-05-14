@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/style
+END
+BadFormatLoggerRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/style/BadFormatLoggerRule.java
+END
+ImportFromSamePackageRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/style/ImportFromSamePackageRule.java
+END
+ConstructorNonEmptyReturnTypeRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/style/ConstructorNonEmptyReturnTypeRule.java
+END
+CopyrightMissingRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/style/CopyrightMissingRule.java
+END
+OverLongLineRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/style/OverLongLineRule.java
+END

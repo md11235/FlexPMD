@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/resources/com/adobe/ac/pmd/rulesets
+END
+event.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/resources/com/adobe/ac/pmd/rulesets/event.xml
+END
+cairngorm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/resources/com/adobe/ac/pmd/rulesets/cairngorm.xml
+END
+architecture.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/resources/com/adobe/ac/pmd/rulesets/architecture.xml
+END
+css.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/resources/com/adobe/ac/pmd/rulesets/css.xml
+END
+switches.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/resources/com/adobe/ac/pmd/rulesets/switches.xml
+END
+multitouch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/resources/com/adobe/ac/pmd/rulesets/multitouch.xml
+END
+empty.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/resources/com/adobe/ac/pmd/rulesets/empty.xml
+END
+style.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/resources/com/adobe/ac/pmd/rulesets/style.xml
+END
+performance.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/resources/com/adobe/ac/pmd/rulesets/performance.xml
+END
+component.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/resources/com/adobe/ac/pmd/rulesets/component.xml
+END
+sizing.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/resources/com/adobe/ac/pmd/rulesets/sizing.xml
+END
+unused.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/resources/com/adobe/ac/pmd/rulesets/unused.xml
+END
+maintanability.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/resources/com/adobe/ac/pmd/rulesets/maintanability.xml
+END
+security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/resources/com/adobe/ac/pmd/rulesets/security.xml
+END
+naming.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/resources/com/adobe/ac/pmd/rulesets/naming.xml
+END
+binding.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/resources/com/adobe/ac/pmd/rulesets/binding.xml
+END
+asdocs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/resources/com/adobe/ac/pmd/rulesets/asdocs.xml
+END
+basic_mxml.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/resources/com/adobe/ac/pmd/rulesets/basic_mxml.xml
+END
+parsley.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/resources/com/adobe/ac/pmd/rulesets/parsley.xml
+END
+unittest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/resources/com/adobe/ac/pmd/rulesets/unittest.xml
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/event
+END
+DefaultEventNameRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/event/DefaultEventNameRuleTest.java
+END
+PublicVariableInCustomEventRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/event/PublicVariableInCustomEventRuleTest.java
+END
+UntypedEventMetadataRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/event/UntypedEventMetadataRuleTest.java
+END
+DispatchHardCodedEventNameRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/event/DispatchHardCodedEventNameRuleTest.java
+END
+EventMissingCloneFunctionRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/event/EventMissingCloneFunctionRuleTest.java
+END
+UnboundTypeInMetadataRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/event/UnboundTypeInMetadataRuleTest.java
+END
+ConstructorDispatchingEventRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/event/ConstructorDispatchingEventRuleTest.java
+END
+ListenForHardCodedEventNameRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/event/ListenForHardCodedEventNameRuleTest.java
+END

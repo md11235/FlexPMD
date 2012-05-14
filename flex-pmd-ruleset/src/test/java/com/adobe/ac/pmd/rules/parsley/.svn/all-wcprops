@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/parsley
+END
+RedundantMethodAttributeRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/parsley/RedundantMethodAttributeRuleTest.java
+END
+MismatchedManagedEventRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/parsley/MismatchedManagedEventRuleTest.java
+END
+RedundantMessageHandlerTypeAttributeRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/parsley/RedundantMessageHandlerTypeAttributeRuleTest.java
+END
+MisplacedMetaDataRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/parsley/MisplacedMetaDataRuleTest.java
+END
+UnknownMetaDataAttributeRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/parsley/UnknownMetaDataAttributeRuleTest.java
+END
+InaccessibleMetaDataRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/parsley/InaccessibleMetaDataRuleTest.java
+END
+MessageInterceptorSignatureRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/parsley/MessageInterceptorSignatureRuleTest.java
+END

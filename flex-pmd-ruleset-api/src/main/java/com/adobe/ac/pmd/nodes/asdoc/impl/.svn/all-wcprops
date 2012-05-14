@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/main/java/com/adobe/ac/pmd/nodes/asdoc/impl
+END
+ParameterAsDocNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/main/java/com/adobe/ac/pmd/nodes/asdoc/impl/ParameterAsDocNode.java
+END
+ClassAsDocNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/main/java/com/adobe/ac/pmd/nodes/asdoc/impl/ClassAsDocNode.java
+END
+FunctionAsDocNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/main/java/com/adobe/ac/pmd/nodes/asdoc/impl/FunctionAsDocNode.java
+END
+AsDocNodeBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset-api/src/main/java/com/adobe/ac/pmd/nodes/asdoc/impl/AsDocNodeBase.java
+END

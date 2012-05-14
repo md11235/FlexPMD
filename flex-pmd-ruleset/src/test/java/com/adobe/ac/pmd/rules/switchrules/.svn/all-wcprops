@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/switchrules
+END
+IdenticalSwitchCasesRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/switchrules/IdenticalSwitchCasesRuleTest.java
+END
+NonBreakableSwitchCaseRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/switchrules/NonBreakableSwitchCaseRuleTest.java
+END
+SwitchStatementsShouldHaveDefaultRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/switchrules/SwitchStatementsShouldHaveDefaultRuleTest.java
+END
+NestedSwitchRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/switchrules/NestedSwitchRuleTest.java
+END
+TooFewBrancheInSwitchStatementRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/test/java/com/adobe/ac/pmd/rules/switchrules/TooFewBrancheInSwitchStatementRuleTest.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/mxml
+END
+OnlyOneScriptBlockPerMxmlRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/mxml/OnlyOneScriptBlockPerMxmlRule.java
+END
+CodeBehindInMxmlRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/mxml/CodeBehindInMxmlRule.java
+END
+MoreThanTwoEntryPointsInMxmlRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/mxml/MoreThanTwoEntryPointsInMxmlRule.java
+END
+StaticMethodInMxmlRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/mxml/StaticMethodInMxmlRule.java
+END
+TooManyStatesInMxmlRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/mxml/TooManyStatesInMxmlRule.java
+END
+MoreThanOneEntryPointInMxmlRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/mxml/MoreThanOneEntryPointInMxmlRule.java
+END
+TooLongScriptBlockRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/mxml/TooLongScriptBlockRule.java
+END
+AbstractMoreThanEntryPointInMxmlRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/opensource/!svn/ver/17405/flexpmd/tags/1.2/flex-pmd-ruleset/src/main/java/com/adobe/ac/pmd/rules/mxml/AbstractMoreThanEntryPointInMxmlRule.java
+END
