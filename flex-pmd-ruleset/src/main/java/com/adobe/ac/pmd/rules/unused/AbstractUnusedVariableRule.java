@@ -75,15 +75,41 @@ abstract class AbstractUnusedVariableRule extends AbstractAstFlexRule
     */
    protected final void tryToAddVariableNodeInChildren( final IParserNode ast )
    {
+       //System.out.println(ast.getLine() + ", " + ast.getColumn() + ", trying to unused child:   " + ast.getId().toString() +", "+ast.getStringValue());
+
+       // must recursively iterate at least block..
+       // if ( ast != null
+       //      && !tryToAddVariableNode( ast ) && ast.is( NodeKind.VAR_LIST ) )
+       //     {
+       //         for ( final IParserNode child : ast.getChildren() )
+       //             {
+       //                 //System.out.println(child.getLine() + ", " + child.getColumn() + ", trying to unused child:   " + child.getId().toString() + ", " + child.getStringValue());
+       //                 tryToAddVariableNode( child );
+       //             }
+       //     }
+
       if ( ast != null
-            && !tryToAddVariableNode( ast ) && ast.is( NodeKind.VAR_LIST ) )
+            && !tryToAddVariableNode( ast ) )
       {
+               if(ast.is( NodeKind.VAR_LIST )) {
          for ( final IParserNode child : ast.getChildren() )
          {
+                           //System.out.println(child.getLine() + ", " + child.getColumn() + ", really unused child:   " + child.getId().toString() + ", " + child.getStringValue());
             tryToAddVariableNode( child );
          }
+               } else {
+                   //System.out.println(ast.getLine() + ", " + ast.getColumn() + ", trying to statement:   " + ast.getId().toString() + ", " + ast.getStringValue());
+                   if( ast.is(NodeKind.BLOCK) && !isBlockEmpty(ast) ) {
+                       visitBlock(ast);
+                   }
+               }
       }
    }
+
+    private boolean isBlockEmpty( final IParserNode block )
+    {
+        return block.is( NodeKind.BLOCK ) && block.numChildren() == 0 || block.is( NodeKind.STMT_EMPTY );
+    }
 
    /**
     * @param ast
@@ -117,13 +143,18 @@ abstract class AbstractUnusedVariableRule extends AbstractAstFlexRule
       {
          if ( variablesUnused.containsKey( ast.getStringValue() ) )
          {
+             //System.out.println(ast.getLine() + ", " + ast.getColumn() + ", trying to mark ast as used:   " + ast.getId().toString() + ", " + ast.getStringValue());
+
+             if(ast.is(NodeKind.PRIMARY))  {
             variablesUnused.remove( ast.getStringValue() );
          }
+      }
       }
       else
       {
          for ( final IParserNode child : ast.getChildren() )
          {
+             //System.out.println(ast.getLine() + ", " + ast.getColumn() + ", trying to mark child as used:   " + child.getId().toString() +", "+child.getStringValue());
             markVariableAsUsed( child );
          }
       }
@@ -139,6 +170,14 @@ abstract class AbstractUnusedVariableRule extends AbstractAstFlexRule
                       ast );
          result = true;
       }
+
+      // if ( ast.is( NodeKind.NAME ) )
+      // {
+      //    addVariable( ast.getChild( 0 ).getStringValue(),
+      //                 ast );
+      //    result = true;
+      // }
+      
       return result;
    }
 }

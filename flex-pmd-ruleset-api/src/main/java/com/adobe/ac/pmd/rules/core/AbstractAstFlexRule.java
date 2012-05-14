@@ -806,7 +806,7 @@ public abstract class AbstractAstFlexRule extends AbstractFlexRule implements IF
                        } );
    }
 
-   private void visitBlock( final IParserNode ast )
+   protected void visitBlock( final IParserNode ast )
    {
       if ( isNodeNavigable( ast ) )
       {
